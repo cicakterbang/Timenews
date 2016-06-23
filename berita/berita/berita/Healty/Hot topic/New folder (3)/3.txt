@@ -1,0 +1,18 @@
+BRIsat: Era Baru Teknologi Komunikasi Bank
+
+Sunarsip
+Pengamat Perbankan
+
+JUMAT 17 Juni 2016, akan menjadi hari bersejarah bagi industri perbankan nasional. Saya katakan demikian karena salah satu pemain penting di industri perbankan, yaitu Bank BRI, hari itu meluncurkan BRIsat atau Satelit BRI. Bagi saya, peluncuran BRIsat tidak sekadar terobosan BRI untuk meningkatkan efisiensi biaya teknologi informasi perseroan, melainkan juga terobosan besar bagi industri perbankan di Indonesia maupun dunia. BRI menjadi satu-satunya bank di dunia yang memiliki satelit sendiri.
+
+Era digital saat ini, masyarakat perbankan tentu akan semakin sadar, teknologi dan ekspektasi terhadap kemudahan, kecepatan, dan keamanan transaksi meningkat. Perkembangan teknologi informasi yang cepat, mau tidak mau, turut memengaruhi perubahan proses bisnis perbankan. Dalam beberapa tahun terakhir, perkembangan teknologi internet dan smartphone turut memengaruhi kebutuhan metode transaksi perbankan dari konvensional menuju penggunaan e-channel dan internet banking.
+
+Untuk mendukung fenomena ini, sarana jaringan komunikasi yang kuat dan andal mutlak diperlukan. Saat ini kebutuhan jaringan komunikasi perbankan nasional pada umumnya dipenuhi melalui jasa provider seperti dengan sewa jaringan terestrial multiprotocol label switching (MPLS) dan sewa jasa satelit (very small aperture terminal/VSAT).
+
+Pemenuhan tersebut walaupun dengan service level yang memuaskan, juga memiliki keterbatasan kapasitas sehingga tidak cukup untuk memenuhi kebutuhan pengembangan bisnis, produk, dan jaringan perbankan. Terlebih bagi bank sekelas BRI yang memiliki jaringan begitu luas sampai ke wilayah pelosok dan pulau terpencil. Sehingga, bila mengandalkan infrastruktur komunikasi yang 'konvensional', akan membatasi ruang bagi BRI untuk pengembangan bisnis.
+
+Keterbatasan ketersediaan kapasitas ini disebutkan dalam kajian PT Telkom Indonesia. Berdasarkan kajian Euroconsult dan Litbang PT Telkom pada APSAT 2013, seperti dikutip dari Annual Report 2015 Bank BRI, pada 2016 proyeksi kebutuhan total transponder Ku-band dan C-band adalah 420 transponder. Sementara itu, ketersediaan jumlah transponder pada 2016 hanya 253 transponder sehingga Indonesia masih kekurangan 167 transponder. Shortage transponder nasional ini akan terus meningkat karena secara proyeksi demand akan terus mengalami peningkatan.
+
+Kapasitas penyelenggara satelit domestik Indonesia memang telah defisit sejak 10 tahun lalu, dan terus akan defisit dalam 7-9 tahun mendatang. Dengan jumlah pasokan nasional terbatas, ketergantungan perusahaan nasional terhadap jaringan komunikasi milik provider asing akan semakin tinggi.
+
+Melihat perkembangan kebutuhan jaringan komunikasi dan semakin tingginya biaya sewa yang harus dikeluarkan, bagi BRI pembelian satelit memang bisa menjadi solusi bagi pemenuhan kebutuhan jaringan komunikasi mereka. Selain meningkatkan kecepatan operasional dan kemudahan akses layanan perbankan, pembelian satelit diharapkan mampu mendukung program-program pemerintah, khususnya dalam peningkatan inklusi keuangan (financial inclusion) masyarakat.

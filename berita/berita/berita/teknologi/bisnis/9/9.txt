@@ -1,0 +1,42 @@
+Akun Facebook Disusupi Orang Asing, Begini Cara Mengeceknya
+
+KOMPAS.com - Khawatir akun Facebook Anda dipakai atau disusupi oleh orang tak dikenal? Jika iya, ternyata ada cara mudah untuk mengetahui apakah akun Anda sudah disusupi oleh orang tersebut atau tidak.
+
+Pengguna cukup memanfaatkan fitur "Where you're logged in" yang memang disematkan di dalam media sosial tersebut. Di dalamnya adalah daftar komputer atau ponsel yang pernah log in ke akun pengguna.
+
+Memanfaatkan fitur tersebut, pengguna bisa melihat aktivitas log in yang ada di akun Facebook miliknya.
+
+Sebagaimana dilansir KompasTekno dari PC Magazine, Rabu (15/6/2016), berikut ini langkah-langkah memanfaatkan fitur tersebut.
+
+1. Buka menu pengaturan
+
+Buka menu Settings atau pengaturan pada Facebook. Bila mengakses melalui desktop, Anda bisa menemukannya dalam menu dropdown di pojok kanan atas.
+
+Baca: Stop 4 Kebiasaan Nge-charge Smartphone seperti Ini
+
+Setelah masuk ke menu pengaturan, pilih menu Security dan carilah tulisan "Where you're logged in". Letaknya pada baris ketiga dari bawah.
+
+2. Cek aktivitas
+
+Klik tombol "edit" yang berada di ujung kanan menu "Where you're logged in". Anda akan menemukan sebuah daftar berisi sesi log in yang sedang atau pernah aktif.
+
+screenshot Daftar komputer dan ponsel yang dipakai log in ke akun Facebook tertentu
+Rinciannya terbagi menjadi Current Session, Desktop, Mobile Browser, Facebook for Android, dan Facebook for Windows.
+
+Baca: 5 Fitur Rahasia di Facebook
+
+Di dalamnya juga disebutkan lokasi log in, tipe perangkat yang dipakai, dan waktu akses terakhir. Dengan demikian, Anda bisa mudah mengenali log in yang asing dan tidak Anda lakukan.
+
+3. Akhiri aktivitas
+
+Anda bisa memilih "End All Activity" untuk mengakhiri seluruh aktivitas perangkat yang terdaftar atau memilih salah satu aktivitas dalam daftar tersebut.
+
+Di samping masing-masing tanggal dan perangkat pengakses yang ada di daftar terdapat tombol "End Activity". Cukup klik tombol itu untuk memutus koneksi antara akun dengan perangkat.
+
+Jangan lupa, setelah memutus akses yang mencurigakan, segera ganti password Facebook Anda. Tindakan ini untuk menghindari potensi akses itu terulang.
+
+Baca: Agar Tak Diretas seperti Zuckerberg, Hindari 10 Password Ini
+
+Penulis	: Yoga Hastyadi Widiartanto
+Editor 	: Deliusno
+Sumber	: PC Magazine,

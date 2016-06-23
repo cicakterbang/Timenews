@@ -1,0 +1,56 @@
+menu
+ -News
+ sub menu
+  - Internasional
+  - Nasional
+  - Index
+menu
+ -Olahraga
+ sub menu
+ - sepakbola
+ - Moto Gp
+ - Badminton
+ - F1
+menu
+ -Ekonomi
+ sub menu
+  - Mikro
+  - Makro
+  - Bursa 
+  - Inspirasi
+menu
+ -Teknologi
+ sub menu
+ - Hardware
+ - Internet
+ - Bisnis
+menu
+ -Otomotif
+  Sub mnu
+   - mobil 
+   - motor 
+   - modifikasi 
+   - tips
+Menu
+ - Hiburan
+ sub menu
+  - Film
+  - musik
+  - Artist
+  - Kultur
+menu 
+ - Healthy
+ submenu
+  - Hot topics
+  - Nutrision
+  - Healthy
+  - sex
+  - psychologi
+menu
+ - Video
+ sub menu
+  - Trending Topics
+  - Life Style
+  - Inspirasi
+  - Traveling 
+  - News

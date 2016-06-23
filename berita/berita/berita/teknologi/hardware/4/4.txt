@@ -1,0 +1,19 @@
+AMD Perkenalkan Kartu Grafis Radeon RX 470 dan RX 460
+
+KOMPAS.com - Menyusul kehadiran kartu grafis pertama yang mengusung GPU Polaris, Radeon RX 480, di ajang Computex awal Juni, AMD telah memperkenalkan dua kartu grafis tambahan bernama Radeon RX 470 dan Radeon RX 460.
+
+Kedua produk yang diperkenalkan dalam acara di pameran E3 di Los Angeles, AS (13/6/2016) ini diposisikan untuk menduduki segmen pasar di bawah Radeon RX 480.
+
+Lantaran hal tersebut, bisa diasumsikan bahwa baik Radeon RX 470 maupun RX 460 bakal dihargai lebih murah dari 199 dollar AS (banderol RX 480), meski AMD belum mengumumkan jadwal ketersediaan dan harga resminya.
+
+AMD mengklaim bahwa harga kartu grafis “Polaris” yang relatif terjangkau dan tenaganya yang besar bakal “memasyarakatkan” teknologi Virtual Reality (VR) di kalangan pengguna komputer.
+
+“Puluhan juta (gamer) saat ini cuma bisa membaca soal pengalaman VR tanpa bisa mencobanya sendiri. Semua itu akan berubah dengan Radeon RX Series, dengan teknologi gaming dan VR yang terjangkau semua orang,” sebut SVP dan Chief Architect grup Radeon AMD, Raja Koduri, dalam keterangan tertulis yang diterima KompasTekno, Selasa.
+
+Radeon RX 470 diklaim bakal mewujudkan “HD gaming” (di resolusi 1.920 x 1.080) yang mulus, sementara RX 460 lebih ditujukan untuk menjalankan aneka  game e-sports, seperti League of Legends.
+
+Kesemua kartu grafis Radeon RX dengan GPU Polaris menggunakan teknologi manufaktur FinFET 14nm sehingga lebih hemat daya dibanding produk sebelumnya. Polaris juga mendukung API modern seperti Direct X 12 dan Vulkan.
+
+Informasi lebih lengkap mengenai kartu-kartu grafis anyar AMD ini rencananya akan diungkap dalam acara peluncuran tanggal 29 Juni mendatang.
+Penulis	: Oik Yusuf
+Editor 	: Reza Wahyudi

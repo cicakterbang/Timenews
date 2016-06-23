@@ -1,0 +1,42 @@
+Belajar "Hacking" dengan "Capture the Flag" Facebook
+
+KOMPAS.com - Kian meluasnya penggunaan internet berarti juga meluasnya ancaman keamanan di dunia maya. Keamanan cyber menjadi masalah utama yang dihadapi individu, bisnis, hingga pemerintahan. Keamanan cyber kian penting karena dunia yang semakin mobile dan terkoneksi.
+
+Sayangnya, masih belum banyak cara bagaimana orang belajar untuk mengasah kemampuan mereka untuk mengatasi berbagai serangan itu.
+
+Facebook mencoba mengisi kekosongan itu dengan mendorong anak-anak belajar meng-hack atau belajar sistem keamanan. Raksasa media sosial ini ingin menelurkan generasi baru pakar keamanan dengan merilis platform Capture the Flag (CTF) yang dibangunnya ke komunitas open source.
+
+Apa itu Capture the Flag? Menurut situs www.ctftime.org, CTF adalah salah satu kompetisi untuk keamanan teknologi informasi. Ada tiga jenis kompetisi CTF yang umum, yaitu Jeopardy, menyerang-bertahan, dan campuran.
+
+CTF jenis Jeopardy memiliki tantangan dalam beberapa kategori. Contohnya web, forensik, kriptografi, dan eksploitasi biner. Setiap tim mendapatkan poin dengan memecahkan setiap tantangan. Lebih banyak poin didapatkan jika mampu menyelesaikan tantangan yang lebih kompleks. Seperti halnya sebuah gim, tantangan berikutnya baru terbuka jika tim atau peserta mampu mengatasi tantangan yang ada.
+
+Sementara untuk jenis menyerang dan bertahan seperti juga game-game di komputer. Satu tim akan mengembangkan jaringannya sendiri, kemudian tim lain berusaha untuk mengeksploitasi kelemahannya. Tim pemilik jaringan akan mendapatkan poin untuk bertahan dan lawan mendapatkan poin dari meng-hack.
+
+Gulshan Singh, teknisi perangkat lunak di tim ancaman infrastruktur Facebook, mengatakan dalam blognya, Mei lalu, bahwa Facebook ingin pendidikan keamanan cyber lebih gampang dan lebih mudah diakses.
+
+Perusahaan itu memutuskan untuk melepas platform CTF mereka sebagai cara ”aman dan legal” bagi anak-anak belajar dan mengasah skill terkait dengan forensik digital, keamanan aplikasi web, kriptografi, dan eksploitasi biner tanpa harus berurusan dengan masalah hukum. Jika anak-anak ini mencoba mengasah kemampuan hack dan eksploitasi keamanan mereka dengan membobol situs tertentu, misalnya, bisa jadi mereka justru bakal berurusan dengan hukum.
+
+Menurut Gulshan, sangat jarang sekolah mampu membangun atau menjalankan platform CTF sendiri. Dengan melepas platform CTF ke publik, perusahaan milik Mark Zuckerberg itu ingin pendidikan sistem keamanan internet menjadi terjangkau dan mudah bagi semuanya.
+
+Memang, di luar situs atau domain yang saat ini tersedia bagi profesional untuk mengetes kemampuan mereka, seperti www.hackthissite.org, pendidikan sistem keamanan internet bagi para siswa atau anak-anak terbilang masih jarang. Padahal, sistem keamanan komputer sangat penting di tengah terus berkembangnya cybercrime.
+
+Di Indonesia sendiri, kasus kejahatan cyber terus terjadi, mulai dari sekadar membobol akun media sosial, mengubah tampilan situs, hingga membajak nasabah perbankan internet. Pakar keamanan hingga ahli forensik digital dan sejenisnya akan sangat dibutuhkan seiring dengan maraknya kejahatan siber.
+
+Menurut Gulshan, sedikit yang bisa menyediakan bagi sekolah, siswa, atau organisasi nirlaba untuk menggunakan platformnya secara cuma-cuma karena untuk membangunnya butuh biaya tinggi. ”Jadi, kami membangun platform bebas untuk semua orang yang akan menangani sistem untuk menjalankan CTF, termasuk peta gim, pendaftaran tim, dan penilaian,” ujar Gulshan.
+
+Facebook mulai menyelenggarakan kompetisi CTF di level perguruan tinggi pada 2013. Mereka kian fokus membantu anak-anak yang lebih muda untuk belajar ilmu komputer dan keamanan. ”Kami memakai platform CTF di belasan event dengan berbagai organisasi di seluruh dunia, dari Girl Scouts of America hingga University of Cambridge dan sekolah menengah atas di Spanyol,” lanjutnya.
+
+”Dengan menyediakan platform kami sebagai open source, sekolah, kelompok siswa, dan organisasi di semua level bisa menyelenggarakan kompetisi, berlatih, dan mengasah kemampuan ilmu komputer dan skill keamanan mereka,” kata Gulshan.
+
+Tantangan dalam platform CTF Facebook itu di antaranya forensik, keamanan aplikasi web, kriptografi, dan eksploitasi biner. Namun, semua orang bisa membangun sendiri tantangannya untuk digunakan bersama platform Facebook ini.
+
+Gulshan menambahkan, platform CTF Facebook tidak hanya akan mengajari anak-anak bagaimana mengasah skill atau kemampuan sistem keamanan komputer dan jaringan, namun juga bagaimana bisa menembus masuk ke pekerjaan di industri sistem keamanan. ”Saya mengetahui bahwa wawancara kerja lebih seperti tantangan di CTF sehingga memudahkan saya untuk menunjukkan skill dan kemampuan saya,” ujar Gulshan.
+
+Bagaimana cara menggunakan CTF Facebook? Jika sudah memasangnya, Anda bisa menyelenggarakan kompetisi. Hal ini bisa dilakukan dengan beberapa peserta kompetisi, baik melalui jaringan maupun terkumpul di satu tempat.
+
+Sayangnya, platform CTF Facebook hanya mendukung sistem operasi 64 bit Ubuntu 14.04. Ubuntu 16.04 atau yang 32 bit tidak didukung saat ini.
+
+Tertarik untuk mengasah kemampuan meng-hack atau belajar sistem keamanan? Langsung saja kunjungi github.com/facebook/fbctf dan mulai pasang CTF Facebook. Di situ sudah disebutkan dengan gamblang penggunaan dan instalasinya.
+Penulis	: Prasetyo Eko P
+Editor 	: Reza Wahyudi
+Sumber	: Harian Kompas,

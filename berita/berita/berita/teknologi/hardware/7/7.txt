@@ -1,0 +1,54 @@
+Setahun Diluncurkan, Apa Kabar Thunderbolt 3?
+
+TAIPEI, KOMPAS.com – Satu tahun sejak didengungkan keberadaannya, Thunderbolt 3 diklaim telah diadopsi secara meluas. Sejumlah peranti penghubung yang mengadopsi port ini pun disebut memasang banderol di bawah 100 dollar AS atau sekitar Rp 1,3 juta.
+
+"Setelah satu tahun berlalu, kami sampaikan Thunderbolt 3 terus berkembang dan meluas pemakaiannya," ungkap Vice President Client Computing Group dan General Manager Client Connectivity Group Intel Corporation, Shahaf Kieselstein, di Taipei, Taiwan, Kamis (2/6/2016).
+
+Dengan satu konektor berbasis Thunderbolt 3, kata Shahaf dalam diskusi terbatas di sela Computex 2016, peralatan seperti dock, layar, dan peranti lain yang tersambung melalui USB dapat langsung terhubung.
+
+Baca: Thunderbolt 3, si "Kembaran" USB-C dari Intel
+
+“Sudah ada 60 desain PC dengan port ini dari vendor terkemuka yang telah dikapalkan,” imbuh Director of Thunderbolt Marketing Client Computing Group Intel Corporation, Jason Ziller, dalam kesempatan yang sama.
+
+KOMPAS.com/PALUPI ANNISA AULIANI Director of Thunderbolt Marketing Client Computing Group Intel Corporation, Jason Ziller, saat memaparkan beragam peranti yang telah tersedia dan dapat terhubung melalui koneksi berbasis Thunderbolt 3, Kamis (2/6/2016), di sela Computex 2016
+
+Jason menyebutkan, komputer yang sudah mengadopsi port Thunderbolt 3 mencakup produk dekstop maupun peralatan mobile. Di dalamnya antara lain tercakup peranti 2-in-1, ultrathin clamshells, laptop khusus game, dan mini PC.
+
+Untuk aksesori dan peralatan penunjang ekosistem, kata Jason, sudah ada 20 peralatan yang diluncurkan dengan mengadopsi teknologi ini. “Berikutnya, ada 65 lagi yang sudah masuk dalam rencana pengembangan kami,” imbuh dia.
+
+Dari beragam aksesori dan peralatan penunjang tersebut, lanjut Jason, sudah memasukkan peranti seperti beragam PC Dock. Lalu, ada juga adapter dual video dengan harga jual tak sampai 99 dollar AS, atau setara sekitar Rp 1,3 juta.
+
+KOMPAS.com/PALUPI ANNISA AULIANI Sejumlah peranti penghubung (dock) yang telah mengadopsi teknologi Thunderbolt 3 dari Intel. Gambar diambil pada Kamis (2/6/2016).
+
+Selain itu, kata Jason, kabel Thunderbolt 3 pun dilego tak sampai 25 dollar AS. “Seharga kabel USB 3.1 tipe C,” tegas Jason.
+
+Kehadiran Thunderbolt diyakini Intel akan menghadirkan kesempatan pemangkasan waktu kerja, terutama bagi yang menekuni video berstandar 4K dan konten kreator. Keuntungan juga bisa dinikmati para pemain game profesional. “Dari user experience,” tegas Jason.
+
+Apa hebatnya Thunderbolt 3?
+
+Sebagai kilas balik, Thunderbolt 3 diumumkan pada Computex 2015. Port dan kabel pasangannya memungkinkan transfer data dengan kecepatan dua arah hingga 40 Gbps.
+
+“Akan ada dua jenis kabel yang dijual di pasaran, untuk mengakomodasi kecepatan 20 Gbps dan 40 Gbps,” ujar Jason dalam sesi roundtable khusus membahas produk ini.
+
+KOMPAS.com/PALUPI ANNISA AULIANI Director of Thunderbolt Marketing Client Computing Group Intel Corporation, Jason Ziller, saat memaparkan beragam peranti yang telah tersedia dan dapat terhubung melalui koneksi berbasis Thunderbolt 3, Kamis (2/6/2016), di sela Computex 2016
+Tak hanya menawarkan kecepatan transfer dan akses, Thunderbolt 3 juga memungkinkan pengisian daya melalui satu colokan yang sama. Bersamaan, modal satu “lubang” ini memungkinkan lebih banyak peranti langsung terkoneksi ke komputer yang sudah  mengadopsinya.
+
+Vendor yang telah mengadopsi Thunderbolt 3 untuk produk-produknya antara lain adalah Acer, Asus, Dell, HP, Gigabyte, dan MSI.
+
+Untuk peranti aksesori dan penunjang, produk yang memungkinkan koneksi dengan Thunderbolt antara lain sudah dibuat dan dijual juga oleh AkiTiO, Kanex, dan StarTech, selain dari vendor papan atas seperti Acer dan Dell.
+
+Meski demikian Thunderbolt dirancang mampu menghubungkan beragam peranti dalam satu waktu melalui satu lubang, Jason tak mau berandai-andai seluruh komputer—baik dekstop maupun mobile—hanya akan memasang port tunggal berbasis Thunderbolt 3.
+
+"Kami tidak berandai-andai hanya akan ada satu port untuk setiap komputer, terutama karena komputer pada dasarnya memang didesain untuk bisa terhubung ke banyak peranti lain," tepis Jason, saat berbincang dengan Kompas.com seusai diskusi.
+
+Meski demikian, Intel berharap rencana peluncuran prosesor generasi ke-7 pada akhir tahun ini bakal mendongkrak hingga dua kali lipat komputer yang memasang Thunderbolt 3.
+
+Ke depan, Intel melihat Thunderbolt menjadi peluang kehadiran game berbasis grafis tinggi bisa dimainkan di lebih banyak perangkat. Kebutuhan grafis untuk game itu bisa dipasok dari kartu grafis eksternal yang terhubung ke komputer melalui port Thunderbolt 3.
+
+Harapan serupa juga tertuju pada permainan atau aplikasi berbasis virtual reality.
+Ikuti perkembangan berita ini dalam topik:
+
+    Pameran Teknologi Computex 2016
+
+Penulis	: Palupi Annisa Auliani
+Editor 	: Deliusno

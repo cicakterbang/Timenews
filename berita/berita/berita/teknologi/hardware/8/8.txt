@@ -1,0 +1,37 @@
+Lenovo dan Nutanix Hadirkan Server untuk UKM
+
+SAN FRANCISCO, KOMPAS.com - Lenovo memperbarui lini hardware server hyperconverged-nya dengan dua perangkat baru, yakni seri HX1000 dan HX2000 yang menyasar segmen remote office atau branch office (ROBO) dan UKM.
+
+Dari segi teknis, HX 1000 series mengusung form factor 1U dan didukung oleh prosesor Intel Xeon dengan memori TruDDR4 64/128/256 GB 2.400 MHz, 8 drive bay ukuran 2,5 inci dengan pilihan jenis penyimpanan HDD, SSD, dan SED.
+
+Sementara HX 2000 Series memiliki form factor 1U dan 2U dengan 4 node, mengusung 2 prosesor Intel Xeon dengan berbagai pilihan core, memori TruDDR4 64/128/256/512 GB 2.400 MHz, 7 drive bay ukuran 2,5 inci dengan pilihan SSD dan HDD.
+
+"Portofolio yang lebih lengkap ini merupakan bukti komitmen Lenovo menciptakan inovasi data center yang bermanfaat," ujar Tom Shell, Senior Vice President, Data Center Product Group, Lenovo.
+
+Dibekali software Acropolis
+
+Kedua peranti hyperconverged tersebut dilengkapi dengan teknologi software Acropolis Hypervisor buatan Nutanix, sebuah perusahaan penyedia platform cloud yang menggabungkan komputasi, virtualisasi, dan penyimpanan dalam solusi berbasis software.
+
+"Kerja sama dengan Lenovo ini menjadikan posisi Nutanix menjadi lebih kuat di pasar seperti Asia Pasifik, brand Lenovo sangat kuat di sana, melalui produk-produk server Lenovo itulah software Nutanix akan masuk," kata Sudheesh Nair, Presiden Nutanix kepada perwakilan jurnalis dari Asia Pasifik, termasuk jurnalis KompasTekno, Reska K. Nistanto, Rabu (8/6/2016) di San Francisco, AS.
+
+Nair mengatakan, software Nutanix yang ditanamkan ke dalam server hyperconverged UKM Lenovo dijamin memiliki teknologi yang sama dengan teknologi yang dimiliki datacenter kelas perusahaan-perusahaan besar.
+
+Hanya saja memang Nutanix telah menyesuaikan software-nya itu agar sesuai dengan model bisnis UKM.
+
+"Kami menghilangkan beberapa hal yang tidak perlu, menambah kemudahannya, karena biasanya UKM kan tidak membutuhkan tim banyak," kata Nair.
+
+Apa itu hyperconverged?
+
+Hyperconverged adalah solusi yang bertujuan untuk menyederhanakan server. Jika server pada umumnya (infrastruktur tradisional) memiliki infrastruktur fisik (hard disk, LAN, dll), virtual (sistem operasi), dan software manajemen yang terpisah, maka hyperconverged menggabungkan semuanya ke dalam satu solusi, sehingga diklaim lebih sederhana, murah dan hemat.
+
+Lembaga riset IDC telah menghitung perbandingan total cost of ownership (TCO) dan return of investment (ROI) antara solusi hyperconverged dengan server tradisional.
+
+Hasilnya, konsumen yang menggunakan solusi hyperconverged mampu menghemat pengeluaran sebesar 58 persen dan mendapatkan ROI sebesar 510 persen.
+
+Server Lenovo HX1000 dan HX2000 yang didukung oleh solusi software Acropolis Nutanix sudah mulai dipasarkan pada akhir kuartal kedua 2016.
+Ikuti perkembangan berita ini dalam topik:
+
+    Lenovo Tech World 2016
+
+Penulis	: Reska K. Nistanto
+Editor 	: Deliusno

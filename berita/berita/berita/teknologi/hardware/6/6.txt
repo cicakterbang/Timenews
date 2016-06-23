@@ -1,0 +1,29 @@
+Dua Prosesor Baru Intel Mulai Diproduksi
+
+TAIPEI, KOMPAS.com - Intel memanfaatkan hingar bingar ajang pameran komputer Computex 2016 untuk membagikan beberapa kabar mengenai dua prosesor terbarunya, Apollo Lake dan Kaby Lake.
+
+Dalam acara itu, Intel mengumumkan bahwa kedua chip tersebut sedang dalam masa produksi. Diharapkan, di penghujung kuartal II tahun 2015, baik Apollo Lake dan Kaby Lake sudah beredar di pasar.
+
+"Kami akan terus menghadirkan inovasi baru," tegas Corporate Vice President General Manager Client Computing Group Intel Corporation, Navin Shenoy, Selasa (31/5/2016).
+
+KOMPAS.com/PALUPI ANNISA AULIANI Corporate Vice President General Manager Client Computing Group Intel Corporation, Navin Shenoy, Selasa (31/5/2016), memperlihatkan purwarupa laptop yang akan memakai prosesor terbaru Intel. Prosesor dan laptop itu akan diluncurkan pada akhir 2016.
+Dalam kesempatan yang sama, Navin juga memperlihatkan beberapa purwarupa laptop yang telah dibekali dengan dua prosesor tersebut.
+
+Apollo Lake sendiri diperkenalkan untuk pertama kalinya pada ajang Intel Developer Forum pada April lalu. Ia merupakan platform dari prosesor Celeron dan Pentium.
+
+Chipset Apollo Lake dijanjikan akan memberikan peningkatan dalam hal performa CPU dan grafis dibandingkan dengan generasi prosesor Celeron dan Pentium sebelumnya.
+
+Prosesor ini juga dijanjikan bakal memiliki konsumsi daya yang lebih rendah demi menjaga konsumsi daya laptop dan desktop.
+
+Sementara itu, Kaby Lake merupakan prosesor generasi ke-7 Intel Core, penerus dari Skylake. Prosesor yang satu ini diproses dalam teknologi fabrikasi 14 nm dan mendukung socket LGA 1151.
+
+Secara nativ, Kaby Lake mendukung USB 3.1, HDCP 2.2, dan Thunderbolt 3. Seri paling standar akan mendukung empat core dan juga teknologi Optane.
+
+Computex 2016 mengangkat empat tema utama, yaitu aplikasi untuk era internet of things (IoT), inovasi startup, solusi bisnis, dan gaming. Sejumlah inovasi dan produk baru Intel dari keempat tema tersebut dijabarkan dalam keynote tersebut.
+
+Ikuti perkembangan berita ini dalam topik:
+
+    Pameran Teknologi Computex 2016
+
+Penulis	: Palupi Annisa Auliani
+Editor 	: Deliusno

@@ -1,0 +1,18 @@
+Kartu Grafis "Penakluk Titan" GeForce GTX 1070 Dibanderol Rp 5 Jutaan
+
+KOMPAS.com - Akhir minggu lalu, aneka kartu grafis berbasis chip GPU terbaru dari Nvidia, GeForce GTX 1070, mulai dijual di pasaran dengan kisaran harga mulai 379 dollar AS atau sekitar Rp 5 juta.
+
+Sebagaimana dirangkum KompasTekno dari ArsTechnica, Rabu (15/6/2016), sejumlah vendor komponen komputer seperti Asus, Gigabyte, dan MSI telah menelurkan model kartu grafis GTX 1070 masing-masing.
+
+Selain dari pabrikan OEM di atas, Nvidia sendiri juga menjual kartu grafis GTX 1070 versi baru dengan embel-embel “Founders Edition” (istilah baru Nvidia untuk menyebut kartu dengan reference design). Banderolnya lebih tinggi di kisaran 449 dollar AS atau sekitar Rp 6 juta.
+
+Berbasis arsitektur “Pascal” terkini, GPU GeForce GTX 1070 merupakan versi lebih murah dari “kakaknya”, GeForce GTX 1080 yang kartu grafisnya bisa dihargai lebih tinggi dari 700 dollar AS.
+
+GeForce GTX 1070 dibekali 1.920 CUDA cores dengan core clock sebesar 1506 Mhz (GPU Boost hingga 1683 MHz), serta memori GDDR5 256-bit 2.000 MHz berkapasitas 8 GB.
+
+Keluaran display yang didukung mencakup DisplayPort 1.4, HDMI 2.0b, dan dual-link DVI-D.
+
+Kinerja GTX 1070 diklaim mampu mengalahkan flagship (dengan arsitektur Maxwell) terdahulu dari Nvidia, GeForce GTX 980 Ti, bahkan lebih kencang dibanding Titan X yang sempat duduk di puncak hierarki kartu grafis Nvidia.
+Penulis	: Oik Yusuf
+Editor 	: Deliusno
+Sumber	: ArsTechnica,

@@ -1,0 +1,20 @@
+Xbox Scorpio Diperkuat "Polaris" dan "Zen" dari AMD?
+
+KOMPAS.com - “Project Scorpio” digadang-gadang menjadi konsol game terkuat ketika dirilis menjelang akhir tahun 2016 nanti. Scorpio tak lain merupakan kode nama konsol Xbox baru besutan Microsoft yang khusus dirancang untuk Virtual Reality (VR) dan 4K gaming.
+
+Jeroan Xbox Scorpio pun lebih bertenaga dibandingkan Xbox One. Microsoft, sebagaimana dirangkum KompasTekno dari PC World, Selasa (15/6/2016), mengklaim bahwa Scorpio bakal memiliki daya olah grafis sebesar 6 teraflops, jauh lebih tinggi dibandingkan Xbox One yang sebesar 1,32 teraflops.
+
+Angka itu bersesuaian dengan kapabilitas seri GPU “Polaris” besutan AMD yang juga baru diperkenalkan, yakni “lebih dari 5 teraflops” untuk model kartu grafis Radeon RX 480. Mungkin kartu grafis inilah yang akan tertanam di Xbox Scorpio nanti.
+
+Soal CPU, masih belum bisa dipastikan apakah Scorpio akan memakai prosesor 8-core AMD dari arsitektur “Zen” yang baru, atau tetap bertahan dengan “Jaguar”, seperti Xbox One (dan PlayStation 4).
+
+Yang jelas, kedua chip CPU dan GPU di konsol game masa depan Microsoft ini bakal dipasok oleh AMD. Hal tersebut dipastikan oleh seorang juru bicara dari perusahaan yang bersangkutan.
+
+“Kami bangga Microsoft telah mengembangkan keluarga Xbox One dengan dua konsol baru (Xbox One S dan Project Scorpio) yang memakai SoC semi-custom berkinerja tinggi dari AMD,” tulis sang juru bicara AMD dalam sebuah e-mail.
+
+AMD adalah pemasok chip untuk konsol-konsol game terpopuler sekarang, Xbox One dari Microsoft dan PS4 dari Sony.
+
+Kombinasi hardware di Xbox Scorpio nanti diklaim mampu menjalankan game dengan resolusi 4K, HDR di resolusi 1080p 60 FPS, serta Virtual Reality.
+Penulis	: Oik Yusuf
+Editor 	: Reza Wahyudi
+Sumber	: PC World,

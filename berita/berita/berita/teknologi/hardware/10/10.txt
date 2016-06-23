@@ -1,0 +1,49 @@
+Bangun Standardisasi 5G, Apa Saja Garapan Intel dan Foxconn?
+
+TAIPEI, KOMPAS.com-Intel dan Foxconn sepakat bekerja sama membangun standardisasi jaringan 5G. Kerja sama juga mencakup proyek percontohan untuk penerapan Mobile Edge Computing, Cloud Radio Access Network, dan Network Functions Virtualization.
+
+"Prioritas kami sekarang adalah membangun standardisasi jaringan 5G," kata Executive Vice President General Manager Data Center Group Intel Corporation, Diane M Bryant, di Taipei, Taiwan, Selasa (31/5/2016).
+
+(Baca: Intel Gandeng Foxconn Kawal Standardisasi Internet 5G)
+
+Kolaborasi ini diharapkan bisa menguji, membuktikan, dan menghadirkan jaringan internet yang lebih cerdas, efisien, sekaligus fleksibel.
+
+Dalam penggarapan proyek percontohan ini, Intel bekerja sama dengan Foxconn's Advanced Communication Academy (FACA) untuk pengembangan teknologi.
+
+Adapun uji coba dan verifikasi penerapan jaringan 5G bakal memakai jejaring operator telekomunikasi di Asia Pasific Telecom yang bernaung di bawah Foxconn.
+
+Dalam pelaksanaannya, Foxconn akan menggunakan referensi arsitektur dan teknologi Intel untuk membuat peranti keras bagi peralatan end user, beserta peranti utama jaringan dan wireless access, sebagai pengembangan solusi provider komunikasi yang sudah mereka miliki.
+
+"Kami sudah berpengalaman dalam manufacturing," tegas Chairman Foxconn, Fang-Ming Lu, saat tampil dalam Intel Keynote untuk Computex 2016 Taipei, Selasa.
+
+Target kerja sama adalah mempercepat kesiapan industri untuk kembali membangun jaringan telekomunikasi di tengah lonjakan volume dan kompleksitas lalu lintas data.
+
+Berikut ini rincian garapan bersama Intel dan Foxconn untuk standardisasi 5G:
+
+1. Cloud Radio Access Network (CRAN)
+
+Intel akan menyediakan konsep arsitektur dan teknologi  mini-CRAN hardware platform dan remote radio head (RRH), untuk pembuatan produk oleh Foxconn. CRAN diklaim menjanjikan infrastruktur yang lebih tepat harga sekaligus memastikan kapasitas yang lebih terukur untuk pemakaian di kawasan padat perkotaan, dengan penerapan fungsi RAN di cloud.
+
+2. User equipment (UE)
+
+Intel menyediakan chipset, desain referensi, dan driver untuk peranti yang mengadopsi jaringan 5G. Tujuannya, membantu Foxconn melakukan verifikasi dalam uji coba CRAN dalam jaringan 5G.
+
+3. Mobile Edge Controller (MEC)
+
+Intel menyediakan dukungan teknologi untuk Network Edge Virtualization (NEV) SDK dan Data Plane Development Kit (DPDK) untuk Foxconn mengembangkan sistem MEC.
+
+Penerapan MEC akan memperluas kemampuan jejaring internet, yang memungkinkan ultra-low latency, bandwidth besar, dan akses real-time.
+
+4. Network Functions Virtualization
+
+Intel Open Network Platform akan menjadi platform rujukan untuk network function virtualization infrastructure (NFVI), sebagai dasar bagi ekosistem 5G.
+
+5. Uji coba
+
+Dilakukan lewat Asia Pacific Telecom untuk memverifikasi efektivitas komponen buatan Foxconn dan infrastruktur yang dibangun dalam ekosistem jaringan 5G.
+Ikuti perkembangan berita ini dalam topik:
+
+    Pameran Teknologi Computex 2016
+
+Penulis	: Palupi Annisa Auliani
+Editor 	: Reza Wahyudi

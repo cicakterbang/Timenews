@@ -1,0 +1,31 @@
+Puluhan Ribu Akses Server Dijual Murah di Pasar Gelap
+
+
+KOMPAS.com - Peneliti dari perusahaan antivirus. Kaspersky Lab menemukan keberadaan pasar gelap online bernama xDedic yang menjual akses untuk membuka server yang telah di-hack.
+
+Ada puluhan ribu server perusahaan besar atau pemerintah yang aksesnya ditawarkan dengan harga termurah mulai 6 dollar AS atau setara Rp 80.000 per unit.
+
+“xDedic ini berisi macam-macam, mulai dari perangkat jaringan milik pemerintah sampai milik perusahaan swasta, mulai dari server web hingga database, pembeli serasa bisa menemukan segalanya,” terang peneliti yang menyebut dirinya sebagai GReAT itu.
+
+“Dan hal terbaiknya adalah semua itu dibanderol sangat murah. Orang bisa membeli akses ke server di pemerintah negara Uni Eropa hanya dengan 6 dollar AS saja,” imbuhnya.
+
+Sebagaimana dilansir KompasTekno dari ArsTechnica, Kamis (16/6/2016), data yang diperoleh sebulan lalu menunjukkan bahwa xDedic memiliki katalog berisi 70.624 server berasal dari berbagai perusahaan dan instansi pemerintah di 173 negara.
+
+Gerbang serangan cyber
+
+Marketplace seperti ini bisa dikatakan sebagai toko impian para hacker. Bayangkan saja, ketika ingin mengambil data dari server tertentu, mereka cukup datang ke xDedic dan membeli aksesnya.
+
+Harga yang ditawarkan pun cenderung sangat murah. Cuma sekali membayar, maka hacker sudah bisa masuk dan mengakses semua data yang ada di dalam server tujuan. Hacker yang berniat jahat pun bisa menyerang dengan mudah dengan cara membeli akses ini.
+
+Menurut peneliti Kaspersky itu, golongan yang paling berminat memakai xDedic adalah para hacker yang bertujuan menyerang dan mencari keuntungan dari akuntan, perpajakan, serta kartu kredit.
+
+xDedic membuat hacker bisa dengan mudah mengakses server yang memiliki software pemrosesan kartu kredit dari sisi penjualan. Setelah mengakses server seperti ini, hacker biasanya akan memasang malware lain yang bisa memanen data kartu kredit, baik yang sudah ada di dalam atau yang baru dimasukkan ke dalam server.
+
+Selain itu, tak menutup kemungkinan bahwa xDedic akan jadi marketplace favorit kelompok serangan cyber terorganisir. Kelompok ini beda dengan peretas kriminal yang berusaha mendapat uang dari korbannya.
+
+Biasanya kelompok yang terorganisir itu cenderung menyebarkan advanced persistent threat (APT) serta mengincar organisasi atau individu. Motivasinya dilandasi persolaan politik, negara atau informasi yang dimiliki seseorang.
+
+“Tujuan forum xDedic ini adalah memfasilitasi pembelian serta penjualan credentials atau kunci untuk memasuki server yang sudah diretas,” ujar peneliti Kaspersky itu.
+Penulis	: Yoga Hastyadi Widiartanto
+Editor 	: Reska K. Nistanto
+Sumber	: ARS Technica,
